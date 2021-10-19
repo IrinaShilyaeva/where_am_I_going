@@ -1,0 +1,6 @@
+.intro {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 40px 40px 80px;
+}
