@@ -1,5 +1,8 @@
 .intro__image {
-  overflow: hidden; 
+  /*overflow: hidden; 
   max-width: 50%;
-  height: 100px;
+  height: 100px;*/
+  min-width: 355px;
+  max-height: 355px;
+  object-fit: cover;
 }
