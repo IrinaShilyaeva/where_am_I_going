@@ -6,6 +6,6 @@
   margin: 62px 10% 82px 69px;
   flex-direction: column;
   align-content: flex-start;
-  width: 400px;
-  justify-content: space-between
+  justify-content: space-between;
+  box-sizing: border-box;
 }
