@@ -1,3 +1,6 @@
 .header__report {
   margin: 0;
+  font-size: 12px;
+  line-height: 130%;
+  letter-spacing: 0.01em;
 }
