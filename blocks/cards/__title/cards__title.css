@@ -1,7 +1,8 @@
 .cards__title {
-  line-height: 1.15;
-  font-size: 14px;
-  font-weight: bold;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: -0.06em;
   margin: 0;
   text-transform: uppercase;
 }

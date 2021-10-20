@@ -1,9 +1,7 @@
 .section-title {
   width: 45%;
-  line-height: 1.15;
-  font-size: 40px;
   font-weight: bold;
-  margin-top: 0;
-  margin-bottom: 0;
-  margin-left: 40px;
+  font-size: 34px;
+  line-height: 130%;
+  letter-spacing: -0.009em;
 }

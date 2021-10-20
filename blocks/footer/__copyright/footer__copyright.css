@@ -1,7 +1,9 @@
 .footer__copyright {
   color: black;
-  font-weight: bold;
   text-align: center;
   margin: 0 auto;
-  font-size: 40px;
+  font-weight: bold;
+  font-size: 34px;
+  line-height: 130%;
+  letter-spacing: -0.009em;
 }

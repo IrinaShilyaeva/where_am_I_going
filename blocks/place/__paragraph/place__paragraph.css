@@ -1,8 +1,6 @@
 .place__paragraph {
-   font-family: 'Inter';
-   font-size: 14px;
-   line-height: 1.5;
-   font-weight: 500;
-   word-spacing: 0.5px;
-   letter-spacing: 0.2px;
+  font-family: 'Inter';
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 150%;
 }
