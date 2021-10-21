@@ -1,0 +1,5 @@
+@media (max-width: 450px) {
+  .place__text_change_place {
+    grid-row: 2/3;
+  }
+}

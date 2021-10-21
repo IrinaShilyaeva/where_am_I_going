@@ -1,3 +1,9 @@
 .place__container {
   max-width: 370px;
 }
+
+@media (max-width: 768px) {
+  .place__container {
+  max-width: 100%;
+  }
+}

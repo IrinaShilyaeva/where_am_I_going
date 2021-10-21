@@ -3,3 +3,9 @@
   min-height: 368px;
   max-width: 1142px;
 }
+
+@media (max-width: 768px) {
+  .table {
+    margin: 90px 30px;
+  }
+}

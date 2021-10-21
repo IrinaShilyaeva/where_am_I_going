@@ -5,3 +5,9 @@
   letter-spacing: -0.005em;
   margin: 0;
 }
+
+@media (max-width: 768px) {
+  .place__title {
+    font-size: 20px;
+  }
+}

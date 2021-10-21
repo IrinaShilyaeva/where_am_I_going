@@ -6,3 +6,10 @@
   max-width: 370px;
   margin: 19px 0 0;
 }
+
+@media (max-width: 768px) {
+  .place__paragraph {
+    margin: 0;
+    font-size: 11px;
+  }
+}

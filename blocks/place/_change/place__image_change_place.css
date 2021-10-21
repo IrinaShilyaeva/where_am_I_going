@@ -1,0 +1,5 @@
+@media (max-width: 450px) {
+  .place__image_change_place {
+    grid-row: 1/2;
+  }
+}

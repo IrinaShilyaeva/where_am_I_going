@@ -4,3 +4,9 @@
   flex-direction: column;
   max-width: calc((100% - (20px * 3) - (40px + 90px)) / 4);
 }
+
+@media (max-width: 768px) {
+  .cards__item {
+    max-width: calc((100% - (30px * 3)) / 4);
+  }
+}

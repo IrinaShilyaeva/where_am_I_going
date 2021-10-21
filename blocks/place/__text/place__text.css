@@ -10,6 +10,12 @@
   box-sizing: border-box;
 }
 
-.place__text:last-child {
+/* .place__text:last-child {
   margin: 62px 10% 62px 69px;
+} */
+
+@media (max-width: 768px) {
+  .place__text {
+    margin: 0 10px;
+  }
 }
