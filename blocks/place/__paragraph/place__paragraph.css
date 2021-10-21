@@ -7,9 +7,21 @@
   margin: 19px 0 0;
 }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   .place__paragraph {
     margin: 0;
     font-size: 11px;
+  }*/
+
+
+  @media (max-width: 550px) {
+    .place__paragraph {
+      font-size: 11px;
+    }
   }
-}
+
+    @media (max-width: 850px) {
+      .place__paragraph {
+        max-width: 100%;
+      }
+  }

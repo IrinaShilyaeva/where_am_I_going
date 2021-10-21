@@ -1,14 +1,19 @@
 .intro {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin: 90px 0 130px 69px;
+  display: grid;
+  grid-template-columns: minmax(160px, 520px) minmax(160px, 355px);
+  grid-template-rows: 354px;
+  margin: 90px 0 130px 5.4%;
+  gap: 5%;
   max-width: 1054px;
-  min-height: 354px;
+  width: 90%;
+  max-height: 354px;
+  justify-content: space-between;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   .intro {
+    grid-template-columns: 1fr;
+    grid-template-rows: minmax(160px, 520px) minmax(160px, 355px);
     margin: 90px 0 90px 30px;
   }
 }

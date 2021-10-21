@@ -6,3 +6,9 @@
   margin: 0 0 23px;
   text-transform: uppercase;
 }
+
+@media (max-width: 850px) {
+  .cards__title {
+    margin: 0 0 13px;
+  }
+}

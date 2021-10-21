@@ -1,11 +1,16 @@
 .table {
   margin: 134px auto 124px;
   min-height: 368px;
-  max-width: 1142px;
+  max-width: 89.2%;
 }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   .table {
     margin: 90px 30px;
-  }
+  }*/
+
+  @media (max-width: 850px) {
+    .table {
+      max-width: 80%;
+    }
 }

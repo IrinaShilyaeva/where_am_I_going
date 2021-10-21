@@ -5,8 +5,9 @@
   max-width: calc((100% - (20px * 3) - (40px + 90px)) / 4);
 }
 
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   .cards__item {
-    max-width: calc((100% - (30px * 3)) / 4);
+    max-width: 100%;
+    margin-bottom: 10%;
   }
 }
