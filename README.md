@@ -16,6 +16,6 @@
 Использована технология построения сеток - Git Layout. Также применена технология Flex-верстки.
 
 **Ссылка**
-
+https://irinashilyaeva.github.io/where_am_I_going/index.html
 
 
