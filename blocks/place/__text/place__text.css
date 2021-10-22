@@ -1,7 +1,4 @@
 .place__text {
-  /* grid-template-columns: minmax(380px, 395px); */
-  /* grid-template-rows: repeat(4, max-content); */
-  /* gap: 48px 40px; */
   display: flex;
   margin: 62px 10% 82px 69px;
   flex-direction: column;
@@ -9,10 +6,6 @@
   justify-content: space-between;
   box-sizing: border-box;
 }
-
-/* .place__text:last-child {
-  margin: 62px 10% 62px 69px;
-} */
 
 @media (max-width: 850px) {
   .place__text {

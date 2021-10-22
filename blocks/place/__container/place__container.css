@@ -4,6 +4,6 @@
 
 @media (max-width: 850px) {
   .place__container {
-  max-width: 100%;
+    max-width: 100%;
   }
 }

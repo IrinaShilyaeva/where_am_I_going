@@ -6,3 +6,9 @@
   letter-spacing: -0.009em;
   margin: 0;
 }
+
+@media (max-width: 550px) {
+  .section-title {
+    font-size: 28px;
+  }
+}

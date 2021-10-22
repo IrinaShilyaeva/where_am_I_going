@@ -1,8 +1,4 @@
 .places {
-  /* display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: repeat(3, 1fr);
-  gap: 0; */
   display: flex;
   flex-direction: column;
   max-width: 1280px;
@@ -10,9 +6,4 @@
   background-color: #F2F2F2;
 }
 
-/* @media (max-width: 661px) {
-  .places {
-    grid-template-rows: repeat(6, 1fr);
-  }
-} */
 
