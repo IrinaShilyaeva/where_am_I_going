@@ -7,6 +7,16 @@
 
 @media (max-width: 850px) {
   .cards__item {
+    margin-bottom: 10%;
+    max-width: calc((100% - (20px * 3)) / 2);
+  }
+  .cards__item:last-child {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 620px) {
+  .cards__item {
     max-width: 100%;
     margin-bottom: 10%;
   }

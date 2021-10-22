@@ -5,3 +5,9 @@
   line-height: 130%;
   letter-spacing: 0.01em;
 }
+
+@media (max-width: 450px) {
+  .header__link {
+    padding-bottom: 10px;
+  }
+}

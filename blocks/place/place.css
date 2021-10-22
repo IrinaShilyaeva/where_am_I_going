@@ -18,11 +18,9 @@
     margin-bottom: 20px;
   }*/
 
-  @media (max-width: 850px) {
-    .place {
-      grid-template-columns: minmax(320px, 640px);
-      grid-template-rows: minmax(320px, 550px) minmax(300px, max-content);
-      row-gap: 10px;
-      margin-bottom: 20px;
-    }
+@media (max-width: 850px) {
+  .place {
+    grid-template-columns: minmax(320px, 640px);
+    grid-template-rows: minmax(320px, 550px) minmax(300px, max-content);
+  }
 }

@@ -13,7 +13,9 @@
 @media (max-width: 850px) {
   .intro {
     grid-template-columns: 1fr;
-    grid-template-rows: minmax(160px, 520px) minmax(160px, 355px);
-    margin: 90px 0 90px 30px;
+    /* grid-template-rows: minmax(160px, 520px) minmax(160px, 355px); */
+    grid-template-rows: 1fr min-content;
+    margin: 50px 10px;
+    max-height: 100%;
   }
 }

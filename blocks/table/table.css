@@ -4,13 +4,14 @@
   max-width: 89.2%;
 }
 
-/*@media (max-width: 768px) {
+@media (max-width: 850px) {
   .table {
-    margin: 90px 30px;
-  }*/
+    max-width: 80%;
+  }
+}
 
-  @media (max-width: 850px) {
-    .table {
-      max-width: 80%;
-    }
+@media (max-width: 620px) {
+  .table {
+    margin: 80px auto;
+  }
 }
